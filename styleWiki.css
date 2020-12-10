@@ -1,0 +1,66 @@
+h1{
+    color: black;
+    font-size: 200%;
+    border-bottom: 2px solid grey;
+    font-weight: normal;
+    padding-bottom: 5px;
+}
+div{
+    margin: 0;
+    font-size: 100%;
+    font-style: italic;
+    color: dimgray;
+}
+p{
+    font-size: large;
+    font-style: normal;
+    color: darkslategray;
+}
+span{
+    font-stretch: inherit;
+    font-weight: bold;
+    color: black;
+    font-size: medium;
+}
+h2{
+    color: black;
+    font-style: normal;
+    font-weight: bold;
+    font-size: x-large;
+    border-bottom: 2px solid grey;
+}
+h3{
+    color: black;
+    font-style: normal;
+    font-weight: bold;
+    font-size: x-large;
+}
+aside{
+    display: table;
+    list-style-type: decimal;
+    background: aliceblue;
+    border: 1px solid #a2a9b1;
+    color: white;
+    font-size: small;
+    padding: 35px;
+    text-decoration: unset;
+}
+ul{
+    list-style-type: decimal;
+}
+.disc{
+    font-size: large;
+    font-style: normal;
+    color: darkslategray;
+    list-style-type: disc;
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+}
+ol
+{
+    color: blue;
+}
